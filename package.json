@@ -12,7 +12,7 @@
     "@testing-library/jest-dom": "latest",
     "@testing-library/react": "latest",
     "@testing-library/user-event": "latest",
-    "react": "^16.8.0",
+
     "react-dom": "latest",
     "react-hook-form": "latest",
     "react-router": "latest",
